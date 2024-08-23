@@ -3,3 +3,10 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100017612355963)](https://www.facebook.com/profile.php?id=100017612355963)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soohan530@gmail.com)](mailto:soohan530@gmail.com) 
 [![Naver Badge](https://img.shields.io/badge/-NAVER-green?style=flat-square&link=https://blog.naver.com/bsh1023)](https://blog.naver.com/soohan530)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/SoohanBae"
+  width="600"
+  height="300"
+/>
+</a>
